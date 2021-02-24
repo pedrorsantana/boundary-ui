@@ -213,6 +213,7 @@ target:
     add-host-sets: Add Host Sets
   types:
     tcp: TCP
+    postgres: POSTGRESQL 
   host-set:
     messages:
       welcome:
